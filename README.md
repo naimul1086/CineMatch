@@ -131,14 +131,10 @@ CineMatch/
 - A Streamlit or Gradio interface
 - Approximate nearest neighbors (FAISS/Annoy) for much larger catalogs
 
-## Team
-
 | Name |
 |------|
 | Md Naimul Islam |
-| Farjana Akter Urme |
-| Tasfika Hasan Mahi |
-| Amena Khanom Shopna |
+
 
 **Course:** CSE4385 — Artificial Intelligence Lab, Northern University Bangladesh
 
